@@ -22,7 +22,7 @@ import java.util.concurrent.atomic.AtomicBoolean;
  * @author peiyu
  * @since 1.2
  */
-public final class ApiConfig extends Observable implements Serializable {
+public class ApiConfig extends Observable implements Serializable {
 
     private static final Logger        LOG             = LoggerFactory.getLogger(ApiConfig.class);
     /**
